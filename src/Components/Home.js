@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer';
 const Home = () => {
   const staticContent = [
     {
-      heading: "Department Of<br/>Computer Science &<br/>Engineering Offers a summer internship by the best professionals.",
+      heading: "Department Of<br/>Computer Science &<br/>Engineering Offers a summer internship by the best professionals. &<br/> From 15th April to 24th May",
       text: [
         "Courses Offered",
         "- Web Development",
@@ -73,9 +73,12 @@ const Home = () => {
       >
         <h1 className="primary-heading" style={{ textAlign: 'center', whiteSpace: 'pre-line' }}>
           Department Of<br />
-          Computer Science & Engineering <br />
+          Computer Science & Engineering <br /></h1>
+        <h2 style={{ textAlign: 'center', whiteSpace: 'pre-line', fontSize:'2rem', color:'#4c4c4c' }}>
           Offers a summer internship by the best professionals. <br />
-        </h1>
+        </h2>
+        <h3 style={{ textAlign: 'center', whiteSpace: 'pre-line', fontSize:'2rem', color:'#4c4c4c' }}>
+          From 15th April to 24th May <br /></h3>
         <div className="primary-text">
           {staticContent[currentItemIndex].text.slice(0, lineIndex + 1).map((line, index) => (
             <p key={index}>
