@@ -11,27 +11,23 @@ const About = () => {
         <img src={AboutBackground} alt="" />
       </div>
       <div className="about-section-image-container" style={{ borderRadius: '3vh', overflow: 'hidden', border: 'none', height: '50vh', marginRight: '5vw' }}>
-        <iframe
-          width="100%"
-          height="100%"
-          src="https://www.youtube.com/embed/WO4SVUkNgdQ??feature=shared"
-          title="YouTube video player"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-        ></iframe>
+      <iframe width="100%"
+          height="100%" src="https://www.youtube.com/embed/SrGA0u3y-Is?si=isnY1cf_ZtMB_iFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <div className="about-section-text-container" style={{ lineHeight: '1.5' }}>
         {/* <p className="primary-subheading">About</p> */}
         <h1 className="primary-heading">
           About Our Department
         </h1>
+        <p className="primary-text">- Accredited by NBA Since 2002</p>
+        <p className="primary-text">- Anna university recogonized Research centre</p>
         <p className="primary-text">- Strong Industrial collaboration and Alumni interaction for placements</p>
         <p className="primary-text">- Several clubs & student chapters for promoting Co-Curricular activities</p>
         <p className="primary-text">- Motivating students to participate in various national events</p>
         <p className="primary-text">- Several value-added courses are conducted beyond curriculum</p>
         <p className="primary-text">- Facilitating Industrial Visits and NGOs for the comprehensive development of the students </p>
         <div className="about-buttons-container">
-          <a href="https://stjosephs.ac.in/index.html"
+          <a href="https://www.stjosephscse.com/#/"
             target="_blank"
             style={{
               color: "white",
