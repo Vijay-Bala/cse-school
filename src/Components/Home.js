@@ -15,7 +15,7 @@ const Home = () => {
         "- Game Development",
         "- Python Programming",
       ],
-      link: "https://docs.google.com/forms/d/e/1FAIpQLSedGWuIdiH0swacjAlCo26HRyaRa1kG2gD4uvcoq1_M-3suRA/viewform",
+      link: "https://forms.gle/EYDz9tTzWM4AvGCa7",
       buttonText: "Register Now",
     },
   ];
