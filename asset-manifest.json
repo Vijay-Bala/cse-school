@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cse-school/static/css/main.4b79998a.css",
-    "main.js": "/cse-school/static/js/main.67b31ecc.js",
+    "main.js": "/cse-school/static/js/main.59ad3e8d.js",
     "static/media/cyber.jpg": "/cse-school/static/media/cyber.2134fd27894bd6b3abd4.jpg",
     "static/media/game.jpg": "/cse-school/static/media/game.438736c7e74f0fcd97cc.jpg",
     "static/media/11.png": "/cse-school/static/media/11.d3c4e577165a41f575e8.png",
@@ -35,10 +35,10 @@
     "static/media/about-background.png": "/cse-school/static/media/about-background.0bd38a162b6c5a7da562.png",
     "index.html": "/cse-school/index.html",
     "main.4b79998a.css.map": "/cse-school/static/css/main.4b79998a.css.map",
-    "main.67b31ecc.js.map": "/cse-school/static/js/main.67b31ecc.js.map"
+    "main.59ad3e8d.js.map": "/cse-school/static/js/main.59ad3e8d.js.map"
   },
   "entrypoints": [
     "static/css/main.4b79998a.css",
-    "static/js/main.67b31ecc.js"
+    "static/js/main.59ad3e8d.js"
   ]
 }
