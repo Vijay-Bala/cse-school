@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cse-school/static/css/main.4b79998a.css",
-    "main.js": "/cse-school/static/js/main.59ad3e8d.js",
+    "main.js": "/cse-school/static/js/main.63a674c2.js",
     "static/media/cyber.jpg": "/cse-school/static/media/cyber.2134fd27894bd6b3abd4.jpg",
     "static/media/game.jpg": "/cse-school/static/media/game.438736c7e74f0fcd97cc.jpg",
     "static/media/11.png": "/cse-school/static/media/11.d3c4e577165a41f575e8.png",
@@ -30,15 +30,17 @@
     "static/media/cognizant.png": "/cse-school/static/media/cognizant.397dd770c1dcbea73f72.png",
     "static/media/mindtree.png": "/cse-school/static/media/mindtree.d55875fdec37d3afc459.png",
     "static/media/06.jpeg": "/cse-school/static/media/06.8430e913092fca20369c.jpeg",
+    "static/media/sih.jpg": "/cse-school/static/media/sih.606148a225ee7ebfc8b4.jpg",
     "static/media/adobe.png": "/cse-school/static/media/adobe.d41725c3e13f080f6fee.png",
     "static/media/zoho.png": "/cse-school/static/media/zoho.a4800c71e2197a1ef657.png",
     "static/media/about-background.png": "/cse-school/static/media/about-background.0bd38a162b6c5a7da562.png",
+    "static/media/patent.jpg": "/cse-school/static/media/patent.dfe020f73eab816fdc20.jpg",
     "index.html": "/cse-school/index.html",
     "main.4b79998a.css.map": "/cse-school/static/css/main.4b79998a.css.map",
-    "main.59ad3e8d.js.map": "/cse-school/static/js/main.59ad3e8d.js.map"
+    "main.63a674c2.js.map": "/cse-school/static/js/main.63a674c2.js.map"
   },
   "entrypoints": [
     "static/css/main.4b79998a.css",
-    "static/js/main.59ad3e8d.js"
+    "static/js/main.63a674c2.js"
   ]
 }
