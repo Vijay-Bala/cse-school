@@ -10,6 +10,8 @@ import Schedule from "./Components/Schedule";
 // import ImageSlider from "./Components/ImmageSlider";
 // import Features from "./Components/Features";
 import General from "./Components/General";
+import Aboutclg from "./Components/Aboutclg";
+import Aboutclg2 from "./Components/Aboutclg2";
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
       <Schedule />
       <Marquee />
       <About />
+      <Aboutclg />
+      <Aboutclg2 />
       <General />
       {/* <Features />
       <ImageSlider /> */}
